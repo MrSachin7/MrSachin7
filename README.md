@@ -24,7 +24,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal, born on Nepal. :wave:
+I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal :portugal:, born on Nepal :nepal:. :wave:
 - :telescope: I am very keen to contribute on developing a backend and frontend projects.
 - :zap: In my free time, I like to solve coding problems and play chess.
 - :seedling: I am very motivated to generate new ideas and work on them.

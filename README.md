@@ -28,6 +28,11 @@ I am currenltly a Master's Student of Computer Science and Engineering at Techni
 - :telescope: I am very keen to contribute on developing a backend and frontend projects.
 - :zap: In my free time, I like to solve coding problems and play chess.
 - :seedling: I am very motivated to generate new ideas and work on them.
+- Here is my simple digital cv (website) 
+¡# Digital CV
+
+Here is my simple digital CV (website):  
+[Visit my website](https://mrsachin7.github.io/personal-site/)
 
 ---
 <h3 align="left">Connect with me:</h3>
